@@ -11,16 +11,6 @@ Clustering is an unsupervised learning approach used to identify natural groupin
 In this study, various algorithms are applied to simulated human data, where individuals are characterized by anthropometric and behavioral variables (e.g., weight, height, diet habits, and water intake frequency).
 The objective is to evaluate the effectiveness and coherence of different clustering techniques under multiple configurations.
 
-⚙️ Project Structure
-📂 ClusterAnalysis/
-│
-├── 📄 README.md                # Project documentation
-├── 📓 ClusterAnalysis.ipynb     # Main Jupyter Notebook with the full experiment
-├── 📁 data/
-│   └── obesity_simulated.csv    # Synthetic dataset used in the analysis
-│
-│
-└── 📄 requirements.txt          # Python dependencies
 
 🧩 Dataset Description
 
@@ -151,5 +141,10 @@ Explore PCA, t-SNE, or UMAP for low-dimensional visualization
 
 [Rodrigo Pinto]
 Master’s Student in Data Science
-[university of Aveiro]
+[University of Aveiro]
 📧 [rodrigoaspinto@ua.pt]
+
+[Inês Silva]
+Master's Student in Data Science
+[University of Aveiro]
+📧 [ines.silva27@ua.pt]
